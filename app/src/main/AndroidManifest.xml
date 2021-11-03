@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BranchPracticeJ21">
         <activity
-            android:name=".DnD"
+            android:name=".DandD"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
