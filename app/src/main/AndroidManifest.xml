@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BranchPracticeJ21">
         <activity
+            android:name=".Pokemon"
+            android:exported="false" />
+        <activity
             android:name=".Street_Fighter"
             android:exported="true" />
         <activity
