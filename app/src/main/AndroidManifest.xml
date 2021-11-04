@@ -13,6 +13,9 @@
             android:name=".Pokemon"
             android:exported="false" />
         <activity
+            android:name=".Street_Fighter"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
