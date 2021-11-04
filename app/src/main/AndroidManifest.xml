@@ -13,6 +13,15 @@
             android:name=".ConnectFour"
             android:exported="false" />
         <activity
+            android:name=".Checkers"
+            android:exported="false" />
+        <activity
+            android:name=".Pokemon"
+            android:exported="false" />
+        <activity
+            android:name=".Street_Fighter"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
