@@ -12,3 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+/*
+testing comment by Rioux 11/28 to check Github push
+ */
